@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Ronwell%20Marc%20Carcer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20%26%20Web%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Ronwell%20Marc%20Carcer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;QA+%2F+Testing+Enthusiast;Machine+Learning+%26+Computer+Vision;Open+to+Entry-Level+Opportunities" />
