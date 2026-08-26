@@ -83,12 +83,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronwell-bot&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronwell-bot&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronwell-bot&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronwell-bot&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronwell-bot&layout=compact&hide_border=true&cache_seconds=86400" height="165" />
 </p>
 
 ---
