@@ -1,7 +1,8 @@
-[![Ronwell's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=Ronwell-bot&theme=neon&style=aura)](https://www.gitskins.com/showcase/Ronwell-bot?skin=studio)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Ronwell%20Marc%20Carcer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20%7C%20Software%20%26%20Web%20Developer&descAlignY=55&descSize=18" />
 
-<h1 align="center">Hi, I'm Ronwell Marc Carcer 👋</h1>
-<h3 align="center">Computer Science Graduate | Software & Web Developer | Aspiring QA / Technical Support</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;QA+%2F+Testing+Enthusiast;Machine+Learning+%26+Computer+Vision;Open+to+Entry-Level+Opportunities" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ronwell-carcer-b3aa28269">
@@ -55,6 +56,17 @@
 
 ---
 
+### 🤖 AI Tools I Use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
@@ -97,3 +109,5 @@
 </p>
 
 <p align="center"><i>Open to entry-level roles in software development, QA/testing, technical support, or application support — remote or hybrid.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" />
