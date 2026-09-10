@@ -146,12 +146,19 @@ A browser-based Blackjack game styled like a monochrome developer terminal. The 
 
 ## 📊 GitHub Activity
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ronwell-bot&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronwell-bot&hide_border=true" height="165" alt="GitHub streak" />
-</div> <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronwell-bot&layout=compact&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
+<div align="center"> <a href="https://github.com/Ronwell-bot">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronwell-bot&theme=transparent&hide_border=true" height="165" alt="GitHub contribution streak" />
+</a> </div> <div align="center">
+
+| Profile | Details |
+| --- | --- |
+| **GitHub** | [github.com/Ronwell-bot](https://github.com/Ronwell-bot) |
+| **Focus** | Software Development · QA / Testing · Web Applications · Python |
+| **Current Direction** | Building practical projects and improving through iteration |
+
 </div>
+
+> GitHub statistic cards can occasionally fail because they depend on third-party rate limits. This section intentionally uses a single activity card and GitHub-native profile links so the README remains clean when external services are unavailable.
 
 ---
 
