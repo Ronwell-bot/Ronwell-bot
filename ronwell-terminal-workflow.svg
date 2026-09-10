@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="940" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">Ronwell's developer workflow</title>
+  <desc id="desc">A terminal-style workflow showing idea, build, test, and ship stages, followed by a project loop.</desc>
+  <defs>
+    <linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#56d364"/><stop offset="1" stop-color="#7ee787"/></linearGradient>
+    <filter id="softGlow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9" fill="none" stroke="#7ee787" stroke-width="1.3"/></marker>
+    <style>
+      .bg{fill:#050505}.grid{stroke:#172217;stroke-width:1;opacity:.38}.line{fill:none;stroke:#7ee787;stroke-width:2;marker-end:url(#arrow)}.thin{fill:none;stroke:#66756a;stroke-width:1.4}.box{fill:#080b08;stroke:#526256;stroke-width:1.4}.inner{fill:#0b100b;stroke:#304632;stroke-width:1}.title{fill:#d7f9dc;font-family:monospace;font-size:22px;font-weight:700;letter-spacing:.4px}.sub{fill:#7ee787;font-family:monospace;font-size:13px;letter-spacing:1.8px}.text{fill:#c0d3c3;font-family:monospace;font-size:14px}.muted{fill:#748779;font-family:monospace;font-size:12px}.tiny{fill:#99b39d;font-family:monospace;font-size:11px}.terminal{fill:#0b120c;stroke:#42654a;stroke-width:1}.accent{fill:#7ee787}.amber{fill:#e3b341}.dot{fill:#7ee787;stroke:#050505;stroke-width:2}.check{fill:none;stroke:#7ee787;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1400" height="940" class="bg"/>
+  <g opacity=".7"> <path d="M0 80H1400M0 160H1400M0 240H1400M0 320H1400M0 400H1400M0 480H1400M0 560H1400M0 640H1400M0 720H1400M0 800H1400M0 880H1400" class="grid"/> <path d="M80 0V940M180 0V940M280 0V940M380 0V940M480 0V940M580 0V940M680 0V940M780 0V940M880 0V940M980 0V940M1080 0V940M1180 0V940M1280 0V940" class="grid"/> </g>
+  <text x="55" y="48" class="sub">RONWELL.DEV / WORKFLOW.EXE</text><text x="1100" y="48" class="muted">SYSTEM: ONLINE</text><path d="M55 68H1345" class="thin"/>
+  <!-- stage headings -->
+  <text x="70" y="118" class="title">01. DISCOVER</text><text x="390" y="118" class="title">02. BUILD</text><text x="710" y="118" class="title">03. TEST</text><text x="1030" y="118" class="title">04. SHIP</text>
+  <text x="70" y="143" class="sub">IDEA → REQUIREMENTS</text><text x="390" y="143" class="sub">CODE → INTERFACE</text><text x="710" y="143" class="sub">CHECK → DEBUG</text><text x="1030" y="143" class="sub">DOCUMENT → SHARE</text>
+  <!-- icons -->
+  <g transform="translate(178 180)"><path d="M-22 26V-15l16-12h39v53H-22Z" class="box"/><path d="M-8-27V-40h39v12M-13 0h32M-13 10h26M-13 20h21" class="thin"/><circle cx="23" cy="-3" r="3" class="dot"/></g>
+  <g transform="translate(500 180)"><circle cx="0" cy="0" r="25" class="box"/><circle cx="0" cy="0" r="8" class="thin"/><path d="M0-25v-9M0 25v9M25 0h9M-25 0h-9M18-18l7-7M-18 18l-7 7M18 18l7 7M-18-18l-7-7" class="thin"/><circle cx="72" cy="20" r="19" class="box"/><circle cx="72" cy="20" r="6" class="thin"/></g>
+  <g transform="translate(820 180)"><path d="M-34 27V-30h68v57Z" class="box"/><path d="M-22 13V-2M-7 13v-29M8 13V-10M23 13V-21M-27 20h57" class="thin"/><path d="M-22-10l14-7 14 4 17-18" class="line"/></g>
+  <g transform="translate(1140 180)"><rect x="-39" y="-29" width="78" height="52" rx="3" class="box"/><path d="M-21 38h42M0 23v15M-24 8l13-10 10 7 20-20" class="thin"/><path d="M-24 8l13-10 10 7 20-20" class="line"/></g>
+  <path d="M240 180H350" class="line"/><path d="M560 180H670" class="line"/><path d="M880 180H990" class="line"/>
+  <!-- cards -->
+  <rect x="45" y="245" width="275" height="300" rx="8" class="box"/><rect x="365" y="245" width="275" height="300" rx="8" class="box"/><rect x="685" y="245" width="275" height="300" rx="8" class="box"/><rect x="1005" y="245" width="350" height="300" rx="8" class="box"/>
+  <text x="65" y="280" class="text">&gt; INPUTS</text><text x="65" y="305" class="muted">what needs to be solved</text>
+  <rect x="65" y="330" width="235" height="45" rx="5" class="inner"/><circle cx="82" cy="352" r="5" class="dot"/><text x="98" y="357" class="text">User needs</text>
+  <rect x="65" y="387" width="235" height="45" rx="5" class="inner"/><circle cx="82" cy="409" r="5" class="dot"/><text x="98" y="414" class="text">Project scope</text>
+  <rect x="65" y="444" width="235" height="65" rx="5" class="inner"/><circle cx="82" cy="466" r="5" class="dot"/><text x="98" y="471" class="text">Questions + notes</text><text x="98" y="492" class="tiny">document before coding</text>
+  <text x="385" y="280" class="text">&gt; IMPLEMENT</text><text x="385" y="305" class="muted">turn concepts into systems</text>
+  <rect x="385" y="330" width="235" height="58" rx="5" class="inner"/><circle cx="402" cy="351" r="5" class="dot"/><text x="418" y="356" class="text">Frontend</text><text x="418" y="376" class="tiny">HTML / CSS / JavaScript</text>
+  <rect x="385" y="400" width="235" height="58" rx="5" class="inner"/><circle cx="402" cy="421" r="5" class="dot"/><text x="418" y="426" class="text">Backend + data</text><text x="418" y="446" class="tiny">PHP / Laravel / MySQL</text>
+  <rect x="385" y="470" width="235" height="45" rx="5" class="inner"/><circle cx="402" cy="492" r="5" class="dot"/><text x="418" y="497" class="text">Python / ML</text>
+  <text x="705" y="280" class="text">&gt; VERIFY</text><text x="705" y="305" class="muted">find what can be improved</text>
+  <rect x="705" y="330" width="235" height="58" rx="5" class="inner"/><circle cx="722" cy="351" r="5" class="dot"/><text x="738" y="356" class="text">Functional checks</text><text x="738" y="376" class="tiny">features behave as expected</text>
+  <rect x="705" y="400" width="235" height="58" rx="5" class="inner"/><circle cx="722" cy="421" r="5" class="dot"/><text x="738" y="426" class="text">Debug + diagnose</text><text x="738" y="446" class="tiny">isolate behavior and issues</text>
+  <rect x="705" y="470" width="235" height="45" rx="5" class="inner"/><circle cx="722" cy="492" r="5" class="dot"/><text x="738" y="497" class="text">Document results</text>
+  <text x="1025" y="280" class="text">&gt; OUTPUTS</text><text x="1025" y="305" class="muted">make the work useful</text>
+  <rect x="1025" y="330" width="310" height="76" rx="5" class="inner"/><circle cx="1042" cy="352" r="5" class="dot"/><text x="1058" y="357" class="text">Working projects</text><text x="1058" y="379" class="tiny">web apps · tools · games</text><path d="M1260 370l20 14 25-32" class="check"/>
+  <rect x="1025" y="420" width="310" height="76" rx="5" class="inner"/><circle cx="1042" cy="442" r="5" class="dot"/><text x="1058" y="447" class="text">Clear documentation</text><text x="1058" y="469" class="tiny">README · issues · project notes</text><path d="M1260 460l20 14 25-32" class="check"/>
+  <path d="M320 395H350" class="line"/><path d="M640 395H670" class="line"/><path d="M960 395H990" class="line"/>
+  <!-- loop -->
+  <text x="55" y="616" class="title">05. PROJECT LOOP</text><text x="55" y="642" class="sub">BUILD → TEST → LEARN → REPEAT</text><text x="55" y="670" class="text">A practical loop for improving every project.</text><text x="55" y="694" class="muted">The goal is not only to finish code, but to understand behavior,</text><text x="55" y="714" class="muted">communicate decisions, and leave the next version better than the last.</text>
+  <rect x="55" y="755" width="1290" height="120" rx="10" class="terminal"/>
+  <circle cx="118" cy="815" r="29" class="box"/><text x="103" y="821" class="text">IDEA</text><path d="M148 815H260" class="line"/>
+  <rect x="280" y="784" width="150" height="61" rx="8" class="box"/><text x="310" y="820" class="text">BUILD</text><path d="M430 815H545" class="line"/>
+  <rect x="565" y="784" width="150" height="61" rx="8" class="box"/><text x="590" y="820" class="text">TEST</text><path d="M715 815H830" class="line"/>
+  <rect x="850" y="784" width="150" height="61" rx="8" class="box"/><text x="870" y="820" class="text">DEBUG</text><path d="M1000 815H1115" class="line"/>
+  <rect x="1135" y="784" width="150" height="61" rx="8" class="box"/><text x="1152" y="820" class="text">SHIP + LEARN</text>
+  <text x="55" y="914" class="muted">$ echo "curiosity + consistency + clear communication"</text><text x="1000" y="914" class="sub">STATUS: READY</text>
+</svg>
