@@ -1,80 +1,100 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Ronwell%20Marc%20Carcer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Developer;Web+Developer;QA+%2F+Testing+Enthusiast;Game+Development+Explorer;Machine+Learning+%26+Computer+Vision;Open+to+Entry-Level+Opportunities" /> <p>
-<a href="https://linkedin.com/in/ronwell-carcer-b3aa28269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:carcerronwell@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Ronwell-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p> <p><b>Computer Science Graduate</b> · San Pedro, Laguna, Philippines</p> </div>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  C:\> WHOAMI                                                                ║
+║                                                                              ║
+║   ██████╗  ██████╗ ███╗   ██╗██╗    ██╗███████╗██╗     ██╗                  ║
+║  ██╔═══██╗██╔═══██╗████╗  ██║██║    ██║██╔════╝██║     ██║                  ║
+║  ██║   ██║██║   ██║██╔██╗ ██║██║ █╗ ██║█████╗  ██║     ██║                  ║
+║  ██║   ██║██║   ██║██║╚██╗██║██║███╗██║██╔══╝  ██║     ██║                  ║
+║  ╚██████╔╝╚██████╔╝██║ ╚████║╚███╔███╔╝███████╗███████╗███████╗              ║
+║   ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚══════╝              ║
+║                                                                              ║
+║  RONWELL MARC CARCER                                                        ║
+║  COMPUTER SCIENCE GRADUATE  //  SAN PEDRO, LAGUNA, PHILIPPINES              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+`[ SYSTEM: ONLINE ]` `[ PROFILE: PUBLIC ]` `[ STATUS: OPEN TO OPPORTUNITIES ]`
+
+[LinkedIn ](https://linkedin.com/in/ronwell-carcer-b3aa28269)· [Email ](mailto:carcerronwell@gmail.com)· [GitHub](https://github.com/Ronwell-bot)
+
+</div>
 
 ---
 
-## 👋 About Me
+## `C:\> HELP ABOUT_ME`
 
-- 🎓 **Computer Science graduate** from **National University – Laguna**
-
-- 💻 Interested in **software development, web applications, QA/testing, technical support, and game development**
-
-- 🧪 Familiar with **functional testing, debugging, issue documentation, software behavior analysis, and test-scenario thinking**
-
-- 🧠 Built applications with **PHP, Laravel, JavaScript, HTML/CSS, MySQL, and Java**
-
-- 🐍 Worked with **Python, machine learning, computer vision, and data preparation**
-
-- 🎮 Built a browser-based **terminal Blackjack game** with betting, local storage, bankroll management, and statistics
-
-- 🏢 Completed an **IT / Project Design internship** with the **City Government of Calamba**
-
-- 📜 Certifications: **CS50x** and **MATLAB Onramp**
-
-- 🌱 Currently open to entry-level opportunities in technology-focused roles
+```
+ABOUT_ME.EXE
+──────────────────────────────────────────────────────────────────────────────
+[OK] Computer Science graduate — National University – Laguna
+[OK] Interested in software development, web applications, QA/testing,
+     technical support, and game development
+[OK] Familiar with functional testing, debugging, issue documentation,
+     software behavior analysis, and test-scenario thinking
+[OK] Built applications with PHP, Laravel, JavaScript, HTML/CSS, MySQL, and Java
+[OK] Worked with Python, machine learning, computer vision, and data preparation
+[OK] Completed an IT / Project Design internship with the City Government of Calamba
+[OK] Certifications: CS50x and MATLAB Onramp
+[OK] Currently open to entry-level opportunities in technology-focused roles
+```
 
 > I enjoy building practical projects, learning through experimentation, and improving software by thinking about both functionality and user experience.
 
 ---
 
-## 🛠️ Tech Stack
+## `C:\> TYPE TECH_STACK.TXT`
 
-### Languages
+### `LANGUAGES`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-183A1D?style=flat-square&logo=python&logoColor=98FB98) ![Java](https://img.shields.io/badge/Java-183A1D?style=flat-square&logo=openjdk&logoColor=98FB98) ![PHP](https://img.shields.io/badge/PHP-183A1D?style=flat-square&logo=php&logoColor=98FB98) ![JavaScript](https://img.shields.io/badge/JavaScript-183A1D?style=flat-square&logo=javascript&logoColor=98FB98) ![SQL](https://img.shields.io/badge/SQL-183A1D?style=flat-square&logo=mysql&logoColor=98FB98)
 
-### Web, Frameworks & Databases
+### `WEB / FRAMEWORKS / DATABASES`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2CA6A4?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-183A1D?style=flat-square&logo=html5&logoColor=98FB98) ![CSS3](https://img.shields.io/badge/CSS3-183A1D?style=flat-square&logo=css3&logoColor=98FB98) ![Laravel](https://img.shields.io/badge/Laravel-183A1D?style=flat-square&logo=laravel&logoColor=98FB98) ![MySQL](https://img.shields.io/badge/MySQL-183A1D?style=flat-square&logo=mysql&logoColor=98FB98) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-183A1D?style=flat-square&logo=css3&logoColor=98FB98)
 
-### Quality, Data & Computer Vision
+### `QUALITY / DATA / COMPUTER VISION`
 
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-6B7280?style=flat-square&logo=checkmarx&logoColor=white)![Debugging](https://img.shields.io/badge/Debugging-6B7280?style=flat-square&logo=bugcrowd&logoColor=white)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat-square&logo=tensorflow&logoColor=white)![Data Preparation](https://img.shields.io/badge/Data%20Preparation-2CA6A4?style=flat-square&logo=databricks&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-183A1D?style=flat-square&logo=checkmarx&logoColor=98FB98) ![Debugging](https://img.shields.io/badge/Debugging-183A1D?style=flat-square&logo=bugcrowd&logoColor=98FB98) ![OpenCV](https://img.shields.io/badge/OpenCV-183A1D?style=flat-square&logo=opencv&logoColor=98FB98) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-183A1D?style=flat-square&logo=tensorflow&logoColor=98FB98) ![Data Preparation](https://img.shields.io/badge/Data_Preparation-183A1D?style=flat-square&logo=databricks&logoColor=98FB98)
 
-### Tools
+### `TOOLS`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Git](https://img.shields.io/badge/Git-183A1D?style=flat-square&logo=git&logoColor=98FB98) ![GitHub](https://img.shields.io/badge/GitHub-183A1D?style=flat-square&logo=github&logoColor=98FB98) ![VS Code](https://img.shields.io/badge/VS_Code-183A1D?style=flat-square&logo=visualstudiocode&logoColor=98FB98) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-183A1D?style=flat-square&logo=microsoftoffice&logoColor=98FB98)
 
 ---
 
-## 🖥️ My Developer Workflow
+## `C:\> RUN WORKFLOW.BAT`
 
 I approach projects as a practical loop: understand the problem, build a focused solution, verify how it behaves, document the result, and use what I learned in the next iteration.
 
-<div align="center">
-<img src="./ronwell-terminal-workflow.svg" alt="Ronwell's terminal-style developer workflow: discover, build, test, ship, and repeat" width="100%" />
-</div> <div align="center">
+```
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│  DISCOVER    │────>│    BUILD     │────>│     TEST     │
+│  [ problem ] │     │  [ solution ]│     │  [ behavior ]│
+└──────────────┘     └──────────────┘     └──────────────┘
+        ^                                      │
+        │                                      v
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│  REPEAT      │<────│  SHIP + LEARN│<────│    DEBUG     │
+│  [ iterate ]  │     │  [ improve ] │     │  [ diagnose ]│
+└──────────────┘     └──────────────┘     └──────────────┘
 
-`DISCOVER` → `BUILD` → `TEST` → `DEBUG` → `SHIP + LEARN`
-
-</div>
-
-> The diagram uses an analog command-line visual language inspired by my Blackjack project: dark terminal panels, green status accents, monospace labels, system prompts, and connected workflow nodes.
+C:\WORKFLOW> status
+DISCOVER -> BUILD -> TEST -> DEBUG -> SHIP + LEARN -> REPEAT
+C:\WORKFLOW> _
+```
 
 ---
 
-## 🎮 Featured Project: Terminal Blackjack
+## `C:\> OPEN PROJECTS\TERMINAL_BLACKJACK`
 
 A browser-based Blackjack game styled like a monochrome developer terminal. The project combines front-end layout, game logic, state management, and persistent browser storage in a single self-contained HTML file.
 
-<div align="center">
-
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  < /ronwell / projects / blackjack          SYSTEM: ONLINE   │
+│  C:\RONWELL\PROJECTS\BLACKJACK                 SYSTEM: ONLINE │
 ├──────────────────────────────────────────────────────────────┤
 │  > BLACKJACK                                                  │
 │  [ A SIMPLE TERMINAL BLACKJACK GAME ]                        │
@@ -91,38 +111,36 @@ A browser-based Blackjack game styled like a monochrome developer terminal. The 
 └──────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+### `PROJECT_NOTES.TXT`
 
-### What I practiced
+- Implemented a shuffled card deck, Blackjack scoring, aces, dealer behavior, blackjack payouts, wins, losses, and pushes.
 
-- Implementing a shuffled card deck, Blackjack scoring, aces, dealer behavior, blackjack payouts, wins, losses, and pushes
+- Built a responsive terminal-inspired interface with CSS and a no-scroll one-page layout.
 
-- Building a responsive terminal-inspired interface with CSS and a no-scroll one-page layout
+- Managed game state with JavaScript and keyboard shortcuts: `D` for Deal, `H` for Hit, and `S` for Stand.
 
-- Managing game state with JavaScript and keyboard shortcuts: `D` for Deal, `H` for Hit, and `S` for Stand
+- Persisted bankroll, bets, games played, wins, losses, pushes, win rate, and net profit/loss with `localStorage`.
 
-- Persisting bankroll, bets, games played, wins, losses, pushes, win rate, and net profit/loss with `localStorage`
-
-- Designing a focused user experience with clear status messages, controls, and session statistics
+- Designed a focused user experience with clear status messages, controls, and session statistics.
 
 > **Design language:** black background, monospace typography, thin terminal dividers, white selection states, muted metadata, and a blinking command-line cursor.
 
 ---
 
-## 📌 Other Projects
+## `C:\> DIR OTHER_PROJECTS /B`
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| 🙂 [**Facial Emotion Recognition**](https://github.com/Ronwell-bot) | Computer vision research project for preparing datasets and classifying facial expressions. | `Python` `Machine Learning` `OpenCV` |
-| 🎓 [**Student Enrollment System**](https://github.com/Ronwell-bot) | Database-driven application for managing student enrollment information. | `Laravel` `PHP` `MySQL` |
-| ✈️ [**Travel Bliss**](https://github.com/Ronwell-bot) | Travel booking web application with user-facing interfaces and database-driven features. | `PHP` `MySQL` `JavaScript` |
-| 📚 [**E-Library Web App**](https://github.com/Ronwell-bot) | Digital library application for browsing and managing e-book information. | `Laravel` `PHP` `MySQL` |
+| [**Facial Emotion Recognition**](https://github.com/Ronwell-bot) | Computer vision research project for preparing datasets and classifying facial expressions. | `Python` `Machine Learning` `OpenCV` |
+| [**Student Enrollment System**](https://github.com/Ronwell-bot) | Database-driven application for managing student enrollment information. | `Laravel` `PHP` `MySQL` |
+| [**Travel Bliss**](https://github.com/Ronwell-bot) | Travel booking web application with user-facing interfaces and database-driven features. | `PHP` `MySQL` `JavaScript` |
+| [**E-Library Web App**](https://github.com/Ronwell-bot) | Digital library application for browsing and managing e-book information. | `Laravel` `PHP` `MySQL` |
 
 > Update the project links above when the individual repositories are available. Pinning the strongest projects to your profile will make this section more useful to visitors.
 
 ---
 
-## 🧪 QA & Technical Focus
+## `C:\> TYPE QA_FOCUS.TXT`
 
 | Area | What I Bring |
 | --- | --- |
@@ -134,42 +152,60 @@ A browser-based Blackjack game styled like a monochrome developer terminal. The 
 
 ---
 
-## 📜 Certifications & Education
+## `C:\> CERTS.EXE --list`
 
-- **CS50x: Introduction to Computer Science** — Harvard University, 2025
+```
+[2025]  CS50x: Introduction to Computer Science
+        Harvard University
 
-- **MATLAB Onramp** — MathWorks Training Services, September 2026
+[2026]  MATLAB Onramp
+        MathWorks Training Services — September 2026
 
-- **Bachelor of Science in Computer Science** — National University – Laguna, 2023–2026
+[2023-2026]  Bachelor of Science in Computer Science
+             National University – Laguna
+```
 
 ---
 
-## 📊 GitHub Activity
+## `C:\> GITHUB STATUS`
 
 <div align="center"> <a href="https://github.com/Ronwell-bot">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronwell-bot&theme=transparent&hide_border=true" height="165" alt="GitHub contribution streak" />
-</a> </div> <div align="center">
+</a> </div>
 
-| Profile | Details |
-| --- | --- |
-| **GitHub** | [github.com/Ronwell-bot](https://github.com/Ronwell-bot) |
-| **Focus** | Software Development · QA / Testing · Web Applications · Python |
-| **Current Direction** | Building practical projects and improving through iteration |
-
-</div>
+```
+┌──────────────────────┬───────────────────────────────────────────────────────┐
+│ PROFILE              │ DETAILS                                               │
+├──────────────────────┼───────────────────────────────────────────────────────┤
+│ GitHub               │ github.com/Ronwell-bot                                │
+│ Focus                │ Software Development · QA / Testing · Web · Python    │
+│ Current Direction    │ Building practical projects through iteration         │
+└──────────────────────┴───────────────────────────────────────────────────────┘
+```
 
 > GitHub statistic cards can occasionally fail because they depend on third-party rate limits. This section intentionally uses a single activity card and GitHub-native profile links so the README remains clean when external services are unavailable.
 
 ---
 
-## 📫 Let's Connect
+## `C:\> CONTACT --open`
 
-<p>
-<a href="https://linkedin.com/in/ronwell-carcer-b3aa28269">LinkedIn</a> ·
-  <a href="mailto:carcerronwell@gmail.com">Email</a> ·
-  <a href="https://github.com/Ronwell-bot">GitHub</a>
-</p> <div align="center">
+```
+C:\RONWELL> connect --linkedin
+https://linkedin.com/in/ronwell-carcer-b3aa28269
 
-<i>Open to entry-level opportunities in software development, QA/testing, technical support, application support, and related technology roles.</i>
+C:\RONWELL> connect --email
+carcerronwell@gmail.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" /> </div>
+C:\RONWELL> connect --github
+https://github.com/Ronwell-bot
+```
+
+<div align="center">
+
+`OPEN TO ENTRY-LEVEL OPPORTUNITIES IN SOFTWARE DEVELOPMENT, QA/TESTING,``TECHNICAL SUPPORT, APPLICATION SUPPORT, AND RELATED TECHNOLOGY ROLES.`
+
+```
+C:\RONWELL> _
+```
+
+</div>
