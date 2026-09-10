@@ -125,9 +125,7 @@ A browser-based Blackjack game styled like a monochrome developer terminal. The 
 - **MATLAB Onramp** — MathWorks Training Services, September 2025
 
 - **Bachelor of Science in Computer Science** — National University – Laguna, 2023–2026
-
-- **Bachelor of Science in Computer Science** — Far Eastern University – Alabang, 2022–2023
-
+  
 ---
 
 ## 📊 GitHub Activity
