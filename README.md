@@ -50,6 +50,22 @@
 
 ---
 
+## 🖥️ My Developer Workflow
+
+I approach projects as a practical loop: understand the problem, build a focused solution, verify how it behaves, document the result, and use what I learned in the next iteration.
+
+<div align="center">
+<img src="./ronwell-terminal-workflow.svg" alt="Ronwell's terminal-style developer workflow: discover, build, test, ship, and repeat" width="100%" />
+</div> <div align="center">
+
+`DISCOVER` → `BUILD` → `TEST` → `DEBUG` → `SHIP + LEARN`
+
+</div>
+
+> The diagram uses an analog command-line visual language inspired by my Blackjack project: dark terminal panels, green status accents, monospace labels, system prompts, and connected workflow nodes.
+
+---
+
 ## 🎮 Featured Project: Terminal Blackjack
 
 A browser-based Blackjack game styled like a monochrome developer terminal. The project combines front-end layout, game logic, state management, and persistent browser storage in a single self-contained HTML file.
@@ -125,7 +141,7 @@ A browser-based Blackjack game styled like a monochrome developer terminal. The 
 - **MATLAB Onramp** — MathWorks Training Services, September 2026
 
 - **Bachelor of Science in Computer Science** — National University – Laguna, 2023–2026
-  
+
 ---
 
 ## 📊 GitHub Activity
